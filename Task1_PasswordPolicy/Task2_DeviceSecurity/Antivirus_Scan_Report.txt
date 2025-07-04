@@ -1,0 +1,7 @@
+Antivirus Scan Report:
+
+- Antivirus Used: Windows Defender
+- Scan Type: Quick Scan
+- Scan Date: 4th July 2025
+- Result: No threats found ✅
+- Action Taken: None needed
