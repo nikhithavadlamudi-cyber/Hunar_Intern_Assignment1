@@ -1,0 +1,5 @@
+Device Configuration:
+
+- Automatic Updates: Enabled
+- Screensaver Lock: Enabled after 5 minutes
+- Guest Account: Created with limited access
