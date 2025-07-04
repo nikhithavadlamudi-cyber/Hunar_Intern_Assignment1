@@ -1,0 +1,15 @@
+Assignment 1 Summary – Cyber Security
+
+Task 1: Password Policy Review
+- Reviewed current password policy
+- Tested password strength
+- Provided improvement recommendations
+
+Task 2: Device Security
+- Configured automatic updates and screen lock
+- Created a user awareness guide
+- Ran antivirus scan and documented results
+
+Submitted by:
+Your Name
+Date: 4th July 2025
